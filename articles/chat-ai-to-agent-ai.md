@@ -3,7 +3,7 @@ title: "会話型AIしか使ったことがない人へ：エージェントは�
 emoji: "🤖"
 type: "idea"
 topics: ["ai", "aiエージェント", "claudecode", "githubcopilot", "初心者"]
-published: false
+published: true
 ---
 
 チャット画面にコードを貼り、返ってきた回答をコピーしてエディタに戻す。エラーが出たら、またそのエラーを貼り付ける。AIを使うとき、こんな往復をしていないでしょうか。

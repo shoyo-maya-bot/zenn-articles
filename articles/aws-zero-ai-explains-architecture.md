@@ -3,7 +3,7 @@ title: "AWSの知識ゼロでも、AIに説明させれば構成が読める"
 emoji: "☁️"
 type: "tech"
 topics: ["aws", "ai", "生成ai", "アーキテクチャ", "初心者"]
-published: false
+published: true
 ---
 
 VPC、ALB、RDS、IAM。AWSは略語が多く、最初の壁が高く感じます。それでも現場では、既存の構成を読んで理解しなければならない場面がすぐにやってきます。

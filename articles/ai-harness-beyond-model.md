@@ -3,7 +3,7 @@ title: "AIの実力はモデルだけでは決まらない：ハーネスとい�
 emoji: "🐎"
 type: "idea"
 topics: ["ai", "aiエージェント", "claudecode", "mcp", "初心者"]
-published: false
+published: true
 ---
 
 同じAIモデルを使っているのに、チャット画面とエージェントツールでは出てくる結果がまるで違う。そんな経験はないでしょうか。

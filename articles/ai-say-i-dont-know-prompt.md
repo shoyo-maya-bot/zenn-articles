@@ -3,7 +3,7 @@ title: "AIに「分からない」と言わせるプロンプト"
 emoji: "🤔"
 type: "idea"
 topics: ["ai", "生成ai", "プロンプト", "claude", "初心者"]
-published: false
+published: true
 ---
 
 AIは、情報が足りなくてもそれらしい答えを返してきます。「分かりません」とはなかなか言いません。AIに慣れていない人ほど、この自信のある回答をそのまま信じてしまいます。
