@@ -1,11 +1,9 @@
 name: Check articles
 
+# mainのルールでこのチェックを必須にしているので、
+# どのファイルを変えたPRでも必ず実行する（pathsで絞ると、記事以外のPRがマージできなくなる）
 on:
   pull_request:
-    paths:
-      - "articles/**"
-      - ".markdownlint-cli2.jsonc"
-      - "scripts/**"
 
 jobs:
   check:
