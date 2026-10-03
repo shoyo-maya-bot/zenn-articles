@@ -2,7 +2,7 @@
 title: "会話型AIしか使ったことがない人へ：エージェントは「話し相手」ではなく「作業者」"
 emoji: "🤖"
 type: "idea"
-topics: ["ai", "aiエージェント", "claudecode", "githubcopilot", "初心者"]
+topics: ["ai","aiエージェント","claudecode","githubcopilot","初心者"]
 published: true
 ---
 
