@@ -2,7 +2,7 @@
 title: "AIを使いこなす人は「設計から入る人」と「開発から入る人」の2種類いる"
 emoji: "🧭"
 type: "idea"
-topics: ["ai", "生成ai", "プロンプト", "claude", "初心者"]
+topics: ["ai","生成ai","プロンプト","claude","初心者"]
 published: true
 ---
 
