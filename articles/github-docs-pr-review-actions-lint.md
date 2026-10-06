@@ -2,7 +2,7 @@
 title: "ドキュメントもGitHubで管理しよう：PRレビューとGitHub Actionsで自動チェック"
 emoji: "📚"
 type: "tech"
-topics: ["github", "githubactions", "markdown", "ai", "初心者"]
+topics: ["github","githubactions","markdown","ai","初心者"]
 published: true
 ---
 
