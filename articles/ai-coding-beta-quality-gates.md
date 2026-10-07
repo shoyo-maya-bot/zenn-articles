@@ -3,7 +3,7 @@ title: "AIが書いたコードは「β版」：設計書から実装・単体�
 emoji: "🏗️"
 type: "tech"
 topics: ["ai", "githubcopilot", "aiエージェント", "テスト", "springboot"]
-published: false
+published: true
 ---
 
 AIにコードを書かせると、驚くほど速く形になります。一方で、「本当に設計書どおり？」「テストは意味のあることを確かめている？」という不安も残ります。
