@@ -19,7 +19,9 @@ jobs:
       - name: Markdownのlint
         uses: DavidAnson/markdownlint-cli2-action@v24
         with:
-          globs: "articles/*.md"
+          globs: |
+            articles/*.md
+            books/**/*.md
 
       - name: front matterのチェック
         run: node scripts/check-frontmatter.mjs

@@ -5,7 +5,8 @@ Zennに公開するAI活用記事のリポジトリです。
 ## 置き場所
 
 - `articles/` … 記事（1記事1ファイル）。ファイル名はa-z0-9・`-`・`_`の12〜50文字。
-- `scripts/check-frontmatter.mjs` … 記事のfront matterのチェック
+- `books/<本のスラッグ>/` … 本。`config.yaml`（タイトル・価格・章の順番）、`cover.png`（500×700）、章ごとの `.md`。
+- `scripts/check-frontmatter.mjs` … 記事のfront matterと、本の `config.yaml`・章のチェック
 - `.markdownlint-cli2.jsonc` … Markdownのlint設定
 - `.github/workflows/check-articles.yml` … PRのたびに上の2つを自動で実行
 
@@ -18,6 +19,6 @@ Zennに公開するAI活用記事のリポジトリです。
 ## 手元でチェックする
 
 ```bash
-npx markdownlint-cli2 "articles/*.md"
+npx markdownlint-cli2 "articles/*.md" "books/**/*.md"
 node scripts/check-frontmatter.mjs
 ```
