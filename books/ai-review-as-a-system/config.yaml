@@ -1,0 +1,14 @@
+title: "AIレビューを仕組みにする：設計書のMarkdown化から、育つチェックリスト・判定役のマルチモデル・動かして確かめるCIまで"
+summary: "AIにレビューを頼むと、指摘はたくさん返ってきます。でも、的外れな指摘が混ざり、本当に危ないところは素通りすることもあります。この本では、AIレビューを「その場の頼みごと」から「回り続ける仕組み」に変える方法を、5つの段階に分けて解説します。設計書をMarkdownにして変換ロスを検知する。ドキュメントをPRとGitHub Actionsで管理する。AIレビューの観点を採択・不採択の記録から育てる。複数のモデルを「足し算」ではなく「判定役」として使う。そして、CIが緑でも動かない不具合を「動かして確かめる」ジョブで拾う。どの章も、公開リポジトリで実際に動く仕組みと、手順・コマンド・よくある失敗をセットで載せています。"
+topics: ["ai", "codereview", "githubactions", "githubcopilot", "markdown"]
+published: false
+price: 0
+toc_depth: 2
+chapters:
+  - intro
+  - markdown-conversion
+  - docs-as-code
+  - grow-checklist
+  - multi-model-judge
+  - run-it-ci
+  - roadmap
