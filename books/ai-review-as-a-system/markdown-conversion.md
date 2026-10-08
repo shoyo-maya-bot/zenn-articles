@@ -1,6 +1,5 @@
 ---
 title: "設計書をMarkdownにする：変換ロスを機械で検知する"
-free: true
 ---
 
 AIレビューの最初の一歩は、AIが読める形で資料を渡すことです。Word・Excel・PDFの設計書をMarkdownにしておくと、Gitで差分を管理でき、AIにもそのまま読ませられます。
