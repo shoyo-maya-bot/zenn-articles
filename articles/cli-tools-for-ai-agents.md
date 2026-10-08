@@ -3,7 +3,7 @@ title: "AIエージェントに使わせるCLIの作り方：JSON出力・終了
 emoji: "🧰"
 type: "tech"
 topics: ["ai", "aiエージェント", "githubcopilot", "python", "cli"]
-published: false
+published: true
 ---
 
 エージェント型のAIは、ターミナルでコマンドを実行できます。つまり、自分たちで作ったツール（CLI）をAIに使わせることができます。
