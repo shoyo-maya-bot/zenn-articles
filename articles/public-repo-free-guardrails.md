@@ -186,9 +186,9 @@ updates:
     directory: /
     schedule: { interval: monthly }
     ignore:
-      # 2.x は API が変わるため、移行は手作業で行う
+      # 次のメジャー版は API が変わるため、移行は手作業で行う
       - dependency-name: mcp
-        versions: [">=2"]
+        versions: [">=3"]
 ```
 
 ## 7. gitleaksで秘密情報の混入を調べる
