@@ -3,7 +3,7 @@ title: "スマホから指示するだけ。AIエージェントと自宅の PC 
 emoji: "📱"
 type: "idea"
 topics: ["ai", "claude", "agent", "automation"]
-published: false
+published: true
 ---
 
 この記事は、スマホで Claude に指示を出して書いてもらいました。
