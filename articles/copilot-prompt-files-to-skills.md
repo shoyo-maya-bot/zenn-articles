@@ -3,7 +3,7 @@ title: "Copilotのプロンプトファイルをスキルに移そう：変換�
 emoji: "🔁"
 type: "tech"
 topics: ["githubcopilot", "vscode", "ai", "aiエージェント", "初心者"]
-published: false
+published: true
 ---
 
 VS CodeのCopilotで、`.github/prompts/` に置いたプロンプトファイルを `/` で呼び出して使っていないでしょうか。便利な機能ですが、VS Codeの公式ドキュメントでは、プロンプトファイルからエージェントスキル（Agent Skills）への移行がすすめられています。
