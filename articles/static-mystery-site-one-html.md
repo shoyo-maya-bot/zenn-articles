@@ -3,7 +3,7 @@ title: "ビルドなし・HTML1ファイルで作る謎解きサイト：GitHub 
 emoji: "🕵️"
 type: "tech"
 topics: ["javascript", "githubpages", "html", "ai", "個人開発"]
-published: false
+published: true
 ---
 
 謎解きミステリーのサイト「[零課事件簿](https://shoyo-maya-bot.github.io/reika-jikenbo/)」を公開しました。毎日1問の小さな謎と、何章かで真相にたどり着く「事件ファイル」が遊べるサイトです。
