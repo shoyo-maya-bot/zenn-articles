@@ -3,7 +3,7 @@ title: "AIと作る公開リポジトリの守り方：無料でできるルー�
 emoji: "🛡️"
 type: "tech"
 topics: ["github", "githubactions", "security", "dependabot", "ai"]
-published: false
+published: true
 ---
 
 AIにコードを書かせて、GitHubで公開する。とても手軽になりましたが、守りの設定は後回しになりがちです。
