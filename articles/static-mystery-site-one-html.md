@@ -2,7 +2,7 @@
 title: "ビルドなし・HTML1ファイルで作る謎解きサイト：GitHub Pagesで動く「零課事件簿」の仕組み"
 emoji: "🕵️"
 type: "tech"
-topics: ["javascript", "githubpages", "html", "ai", "個人開発"]
+topics: ["javascript","githubpages","html","ai","個人開発"]
 published: true
 ---
 
