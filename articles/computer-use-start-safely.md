@@ -3,7 +3,7 @@ title: "AIに画面操作を任せる前に：computer useを安全に始める�
 emoji: "🖱️"
 type: "idea"
 topics: ["ai", "githubcopilot", "aiエージェント", "computeruse", "初心者"]
-published: false
+published: true
 ---
 
 AIに「この画面のボタンを押して、表に入力しておいて」と頼めるようになってきました。GitHub Copilotでも、デスクトップアプリを操作する「computer use」がプレビューで使えるようになりました。
