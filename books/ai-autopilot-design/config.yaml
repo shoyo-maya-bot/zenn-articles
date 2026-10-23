@@ -1,7 +1,7 @@
 title: "AIに毎日の仕事を任せきる設計図 ― 止めない・暴走させない・「できました」を信じない"
 summary: "Claude Code などのAIエージェントに、定期タスクやGitHub操作、投稿、ゲーム制作を「任せて放っておける」形にするための設計をまとめた本です。権限の強制、成功判定、外部への書き込み、再開できる作り、プラットフォームの上限、コストの見積もりまで、無人運用でつまずく場所を順番に扱います。各章の最後に、そのまま使えるチェックリストを付けました。"
 topics: ["ai", "claudecode", "aiagent", "githubactions", "自動化"]
-published: false
+published: true
 price: 500
 chapters:
   - 00-introduction
