@@ -3,7 +3,7 @@ title: "業務の文書をAIに扱わせる前に：社内AIツールに仕込�
 emoji: "🔒"
 type: "tech"
 topics: ["security", "githubcopilot", "python", "ai", "aiエージェント"]
-published: false
+published: true
 ---
 
 社内でAIエージェントを使い始めると、すぐに「設計書やExcelをAIに読ませたい」という話になります。便利な反面、気になるのが情報漏えいです。
