@@ -3,6 +3,7 @@ summary: "Claude Code などのAIエージェントに、定期タスクやGitHu
 topics: ["ai", "claudecode", "aiagent", "githubactions", "自動化"]
 published: true
 price: 500
+toc_depth: 2
 chapters:
   - 00-introduction
   - 01-what-to-delegate
